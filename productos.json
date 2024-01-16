@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "title": "Producto 1",
+    "description": "Descripción del Producto 1",
+    "code": "P001",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica",
+    "thumbnails": [
+      "/images/product1_1.jpg",
+      "/images/product1_2.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Producto 2",
+    "description": "Descripción del Producto 2",
+    "code": "P002",
+    "price": 29.99,
+    "status": true,
+    "stock": 30,
+    "category": "Ropa",
+    "thumbnails": [
+      "/images/product2_1.jpg",
+      "/images/product2_2.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Producto 3",
+    "description": "Descripción del Producto 3",
+    "code": "P003",
+    "price": 49.99,
+    "status": true,
+    "stock": 20,
+    "category": "Hogar",
+    "thumbnails": [
+      "/images/product3_1.jpg",
+      "/images/product3_2.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Producto 4",
+    "description": "Descripción del Producto 4",
+    "code": "P004",
+    "price": 39.99,
+    "status": true,
+    "stock": 25,
+    "category": "Deportes",
+    "thumbnails": [
+      "/images/product4_1.jpg",
+      "/images/product4_2.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Producto 5",
+    "description": "Descripción del Producto 5",
+    "code": "P005",
+    "price": 39.99,
+    "status": true,
+    "stock": 25,
+    "category": "Deportes",
+    "thumbnails": [
+      "/images/product4_1.jpg",
+      "/images/product4_2.jpg"
+    ]
+  },
+  {
+    "title": "Nuevo Producto Sebastian",
+    "description": "Descripción del Nuevo Producto",
+    "code": "NP111",
+    "price": 24.99,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónica",
+    "thumbnails": [
+      "/images/new_product_1.jpg",
+      "/images/new_product_2.jpg"
+    ],
+    "id": "6"
+  }
+]
